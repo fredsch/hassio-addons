@@ -1,5 +1,3 @@
-{
-  "name": "fredsch Home Assistant Add-ons",
-  "url": "https://github.com/fredsch/hassio-addons",
-  "maintainer": "fredsch"
-}
+name: fredsch Home Assistant Add-ons
+url: 'https://github.com/fredsch/hassio-addons'
+maintainer: fredsch
