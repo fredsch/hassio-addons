@@ -1,9 +1,9 @@
 {
   "name": "Bayrol Poolaccess MQTT",
   "description": "Easily connect Bayrol Poolaccess to Home-Assistant.",
-  "image" : "tdenolle/bayrol-poolaccess-mqtt",
-  "url": "https://github.com/tdenolle/bayrol-poolaccess-mqtt.git",
-  "version": "1.4.0",
+  "image" : "fredsch/bayrol-poolaccess-mqtt",
+  "url": "https://github.com/fredsch/bayrol-poolaccess-mqtt.git",
+  "version": "1.4.1",
   "author": "tdenolle",
   "license": "MIT",
   "slug": "bayrol-poolaccess-mqtt",
